@@ -1,2 +1,2 @@
-# IFD-SoSe20
+# IFD-WiSe20/21
 Interface Design Abgaben
