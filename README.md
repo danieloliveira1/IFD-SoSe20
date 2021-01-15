@@ -11,3 +11,5 @@ Interface Design Abgaben <br><br>
 <a href="Aufgabe 6/VR Cardboard Brille_Doku.pdf" target="_blank">Aufgabe #06 VR Brille - Doku</a><br>
 <a href="https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view" target="_blank">Aufgabe #07.1 - Video </a><br>
 <a href="Aufgabe 7/IFD-Aufgabe7-VR-Konzept.pdf" target="_blank">Aufgabe #07.2 - Doku </a><br>
+<a href="https://www.youtube.com/watch?v=PMrPGeQ6YkQ&feature=youtu.be&ab_channel=AnastasiaHirt" target="_blank">Aufgabe #08 - 360 Grad Video </a><br>
+
