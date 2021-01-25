@@ -1,5 +1,4 @@
-//# IFD-WiSe20/21
-Interface Design Abgaben <br><br>
+#Interface Design Abgaben <br><br>
 
  <h2 id="task-0">Aufgabe #00</h2>
 <a href="Aufgabe 0/Interface Design_Aufgabe _00.pdf" target="_blank">SWAT - Analyse</a><br>
